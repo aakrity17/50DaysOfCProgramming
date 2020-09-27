@@ -13,8 +13,7 @@ int main()
 		printf("Given number is prime");
 	}
 	else{
-	
 		printf("Given Number is not Prime")
 	}
-//	kds
+
 }
