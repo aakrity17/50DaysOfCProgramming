@@ -1,3 +1,4 @@
+// C Program to Print Prime number between 1 to 100.
 #include <stdio.h>
  
 int main()
@@ -23,3 +24,4 @@ int main()
   }
   return 0;
 }
+
