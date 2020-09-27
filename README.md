@@ -1,10 +1,7 @@
 # 50DaysOfCProgramming
 
-| Day |                                  #Title                                   |
-| :-: | :-----------------------------------------------------------------------: |
-| 01  |                             Adding 2 Numbers                              |
-| 02  |                         Average of Three Numbers                          |
-| 03  |                           Factorial of a Number                           |
-| 04  |                     Program to check Armstrong or not                     |
-| 05  | Program to check whether the given integer is positive , negative or Zero |
-| 06  |             C Program to find prime number between 1 to 100.              |
+| Day |                   #Title                    |
+| :-: | :-----------------------------------------: |
+| 01  |             Print Hello World.              |
+| 02  |    Print prime numbers between 1 to 100.    |
+| 03  | Program to check Even number given by user. |
