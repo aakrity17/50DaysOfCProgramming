@@ -1,3 +1,5 @@
+// C Program to check whether the given number is prime or not given by user.
+
 #include<stdio.h>
 int main()
 {
