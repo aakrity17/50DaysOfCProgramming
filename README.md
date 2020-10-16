@@ -1,6 +1,6 @@
 # 50DaysOfCProgramming
 I will be adding programs in C for 50 days straight.
-|  Day  |                                   #Title                                   |
+|  Date|                                   #Title                                   |
 | :---: | :------------------------------------------------------------------------: |
 |  2020-10-1   |                              Print Hello World                     |
 |  2020-10-2   | Print Numbers Between 1 to 100                                                 |
