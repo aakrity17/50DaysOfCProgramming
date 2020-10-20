@@ -1,4 +1,4 @@
-//C Program to Demostrate the working of keyboard long.
+//C Program to Demostrate (Find Size)the working of keyboard .
 
 #include<stdio.h>
 int main()
@@ -14,7 +14,6 @@ printf("The Size of Long Long = %zu Bytes\n",sizeof(c));
 printf("The Size of double = %zu Bytes\n", sizeof(e));
 printf("The Size of Long Double = %zu\n", sizeof(f));
 return 20;
-
 }
 
 //Output :
