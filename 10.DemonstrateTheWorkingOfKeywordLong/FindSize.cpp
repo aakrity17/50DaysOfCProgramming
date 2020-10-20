@@ -36,9 +36,10 @@ Btw, The "sizeof" Operator returns "size_t" (unsigned integral type).
 
 The size_T data type is used to represent the size of an object. The format 
 specifier used for size_t is %zu. 
-*/
+
 
 //Note : The "long" Keyword cannot be used with "float" and "Char" Types.
+*/
 
 
 
