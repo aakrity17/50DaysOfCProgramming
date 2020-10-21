@@ -1,6 +1,8 @@
 //C Program to swap to number using Temporary Variable
+
 #include<stdio.h>
-int main() {
+int main() 
+{
       double first, second, temp;
       printf("Enter first number: ");
       scanf("%lf", &first);
@@ -23,5 +25,4 @@ int main() {
 
 /* In the above program, the temp variable is assigned the variable of the first variable.
 Then, the value of the first variable is assigned to the second variable.
-
 Finally, the temp which hold the initial value of first is assigned to second. the completes the swapping process./*
