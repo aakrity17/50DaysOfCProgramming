@@ -19,7 +19,7 @@ int main()
       second = temp;
 
       printf("\nAfter swapping, firstNumber = %.2lf\n", first);
-      printf("After swapping, secondNumber = %.2lf", second);
+      // printf("After swapping, secondNumber = %.2lf", second);
       return 0;
 }
 
