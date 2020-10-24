@@ -18,4 +18,4 @@
 |  Day 14  | 21th Oct, 2020 |                   C Program to Swap Two Numbers                    |
 |  Day 15  | 22th Oct, 2020 | C Program to Check Whether the Number Given By User is Odd or Even |
 | \*\*\*\* | 23th Oct, 2020 |                               Break                                |
-|  Day 16  | 24th Oct, 2020 | C Program to Check Whether the Number Given By User is Odd or Even |
+|  Day 16  | 24th Oct, 2020 |               C Program to Check Vowel and Consonent               |
