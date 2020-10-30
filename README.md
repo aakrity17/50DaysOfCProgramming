@@ -23,5 +23,5 @@
 | \*\*\*\* | 26th Oct, 2020 |                               Break                                |
 | \*\*\*\* | 27th Oct, 2020 |                               Break                                |
 | \*\*\*\* | 28th Oct, 2020 |                               Break                                |
-
-| Day 17 | 29th Oct, 2020 | C Program to find largest Number Among 3. |
+|  Day 17  | 29th Oct, 2020 |             C Program to find largest Number Among 3.              |
+|  Day 18  | 30th Oct, 2020 |                    C Program to Check Leap Year                    |
