@@ -20,7 +20,7 @@ return 0;
 
 }
 
-/*In this program, the integer entered by the user is stored in a variable
+/*In this c program, the integer entered by the user is stored in a variable
 "num" and we use if, else statement to check the number whether it is positive
-negative or zero if the number is greater than 0 then the number is positive, 
+negative or zero, if the number is greater than 0 then the number is positive, 
 if the number is less than zero than the number is positive*/
