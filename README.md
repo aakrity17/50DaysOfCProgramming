@@ -26,3 +26,4 @@
 |  Day 17  | 29th Oct, 2020 |                 C Program to find largest Number Among 3.                 |
 |  Day 18  | 30th Oct, 2020 |                       C Program to Check Leap Year                        |
 |  Day 19  | 31th Oct, 2020 | C Program to Check Whether the Given Number is Positive, Negative or Zero |
+|  Day 20  |  1 Nov, 2020   |                        C Program Fuction Practice                         |
