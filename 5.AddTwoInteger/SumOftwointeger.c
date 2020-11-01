@@ -19,7 +19,7 @@ return 0;
 //Then two numbers are added using the [+] Operator, and the result is stored in the sum
 //variable.
 
-//Finally the printf function is used to display the sum of numbers.
+//Finally the printf function is used to display the sum of numbers. 
 
 //We use &num1 to after taking integer in scanf
 
