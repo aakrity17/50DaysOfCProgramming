@@ -28,3 +28,4 @@
 |  Day 19  | 31th Oct, 2020 | C Program to Check Whether the Given Number is Positive, Negative or Zero |
 |  Day 20  |  1 Nov, 2020   |                        C Program Fuction Practice                         |
 |  Day 21  |  2 Nov, 2020   |                        C Program Fuction Examples.                        |
+|  Day 22  |  3 Nov, 2020   |       C Program to check whether a Character is an Alphabet or not.       |
