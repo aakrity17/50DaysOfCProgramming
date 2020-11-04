@@ -29,3 +29,4 @@
 |  Day 20  |  1 Nov, 2020   |                        C Program Fuction Practice                         |
 |  Day 21  |  2 Nov, 2020   |                        C Program Fuction Examples.                        |
 |  Day 22  |  3 Nov, 2020   |       C Program to check whether a Character is an Alphabet or not.       |
+|  Day 23  |  4 Nov, 2020   |          C Program Print Sum Of Natural Numbers Using For loop.           |
