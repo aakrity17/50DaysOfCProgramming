@@ -33,3 +33,5 @@
 |  Day 24  |  5 Nov, 2020   |             C Program Print Multiplication Table using loop.              |
 |  Day 25  |  6 Nov, 2020   |                            Finonacci Sequence.                            |
 |  Day 26  |  7 Nov, 2020   |                        Factorial Of Given Number.                         |
+|  Day 27  |  8 Nov, 2020   |                   C program to Find GDC of Two Number.                    |
+|  Day 28  |  9 Nov, 2020   |                                 Find LCM                                  |
