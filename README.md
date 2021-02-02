@@ -35,4 +35,4 @@
 |  Day 26  |  7 Nov, 2020   |                        Factorial Of Given Number.                         |
 |  Day 27  |  8 Nov, 2020   |                   C program to Find GDC of Two Number.                    |
 |  Day 28  |  9 Nov, 2020   |                                 Find LCM                                  |
-|  Day 29  |  18 Nov, 2020  |                               Binary Value                                |
+|  Day 29  |  20 Nov, 2020  |                               Binary Value                                |
